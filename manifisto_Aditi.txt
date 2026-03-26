@@ -1,0 +1,15 @@
+----------------------------------------------------------
+             OPEN SOURCE MANIFESTO (20 March 2026)                
+----------------------------------------------------------
+My name is Aditi, and I believe in the power of FOSS.
+Every day, I use Git as a tool that empowers my digital journey.
+To me, the essence of open source lies in its true importance—
+freedom, collaboration, and shared growth.
+
+In the spirit of global collaboration, I make a promise:
+one day, I will build and share my own portfolio with the world,
+just as countless others have shared their work to help me grow.
+
+This is not just a goal, but a commitment to give back
+to the community that continues to inspire me.
+----------------------------------------------------------

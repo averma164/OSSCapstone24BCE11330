@@ -1,5 +1,5 @@
 ----------------------------------------------------------
-             OPEN SOURCE MANIFESTO (20 March 2026)                
+             OPEN SOURCE MANIFESTO (30 March 2026)                
 ----------------------------------------------------------
 My name is Aditi, and I believe in the power of FOSS.
 Every day, I use Git as a tool that empowers my digital journey.
